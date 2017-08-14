@@ -1,0 +1,16 @@
+.flexible{
+	display:flex;
+	flex-direction:row;
+	justify-content: left;
+}
+
+.red{
+	background: red;
+}
+
+.yellow{
+	background: yellow;
+}
+.green{
+	background: green;
+}
